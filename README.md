@@ -1,7 +1,7 @@
 # Пет-проект - новостная лента itpedia
 Домашняя страница веб-приложения.
 
-![image](https://github.com/user-attachments/assets/79e4a50e-782f-4249-a01d-8d8adbfddcc7)
+![image](https://github.com/user-attachments/assets/31c121b3-f798-436a-a662-65e127518d61)
 
 Есть возможность добавлять статьи.
 

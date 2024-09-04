@@ -1,15 +1,24 @@
 # Пет-проект - новостная лента itpedia
-Есть возможность добавлять статьи
-![image](https://github.com/user-attachments/assets/46cba6a9-d12a-4029-8c7e-7070901bd52f)
-Добавленные статьи сохраняются в БД с уникальным идентификатором
-![image](https://github.com/user-attachments/assets/871cfb89-eeac-416b-8e72-bdb4c0afef36)
-Добавленная статья отображается в News feed
-![image](https://github.com/user-attachments/assets/843c465d-0fee-4c5f-91f1-d9b4012fad26)
+Домашняя страница веб-приложения.
+
+![image](https://github.com/user-attachments/assets/79e4a50e-782f-4249-a01d-8d8adbfddcc7)
+
+Есть возможность добавлять статьи.
+
+![image](https://github.com/user-attachments/assets/598c50ff-6495-47f1-90cc-d35d4a9ad1ae)
+
+Добавленные статьи сохраняются в БД с уникальным идентификатором.
+
+![image](https://github.com/user-attachments/assets/83632fc4-6b11-4cbb-8b87-1c53a5924300)
+
+Добавленная статья отображается в News feed.
+
+![image](https://github.com/user-attachments/assets/f8c24460-d325-4372-aa3c-2e160638a938)
 
 Шаблон дизайна страниц взят с Bootstrap https://getbootstrap.com/docs/5.0/examples/
 
 ## Стек технологий
-ЯП: Java
-БД: MySQL
-Фреймворк: Spring Boot
-Сборщик проекта: Maven
+ЯП: Java.
+БД: MySQL.
+Фреймворк: Spring Boot.
+Сборщик проекта: Maven.

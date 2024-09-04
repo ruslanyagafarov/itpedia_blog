@@ -18,7 +18,7 @@
 Шаблон дизайна страниц взят с Bootstrap https://getbootstrap.com/docs/5.0/examples/
 
 ## Стек технологий
-ЯП: Java.
-БД: MySQL.
-Фреймворк: Spring Boot.
-Сборщик проекта: Maven.
+ЯП: Java  
+БД: MySQL  
+Фреймворк: Spring Boot  
+Сборщик проекта: Maven  
